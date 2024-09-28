@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Varsha Singh</h1>
 <h3 align="center">I am a frontend Developer.</h3>
 
-- 🌱 I’m currently learning **mongoDB**
+
 
 - 💬 Ask me about **react, html, css, JavaScript**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/varsha-singh-831ab4216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varsha-singh-831ab4216/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/varshasinghmbd11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/varshasinghmbd11" height="30" width="40" /></a>
